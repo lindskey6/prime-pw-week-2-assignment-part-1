@@ -1,5 +1,6 @@
 // REQUIRED FEATURES:
 // 1 - Create a variable called `firstName` and assign it the value of your first name
+var firstName = 'Linssi';
 
 // 2 - Create a second variable called `lastName` and assign it the value of your last name
 
