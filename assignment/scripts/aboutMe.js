@@ -13,7 +13,7 @@ var fullName = firstName + lastName;
 console.log ( fullName );
 
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
-var luckyNumber = '6';
+var luckyNumber = 6;
 
 // 6 - Console log this sentence, adding in the variables you created above: 
 // 'My name is (full name), and I think (lucky number) is a winner!'.
@@ -27,22 +27,22 @@ var adventurous = true;
 var food = 'Hot Pot';
 
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
-var pets = '2';
+var pets = 2;
 
 // 10 - Create a variable called `friendsPets` and assign it the value of the number of pets your friend has
-var friendsPets = '2';
+var friendsPets = 2;
 
 // 11 - Add two pets to your `pets` variable
 let pet1 = 'Maya';
 let pet2 = 'Luna';
 
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
-const allowed pets = 4 
+const allowedPets = 4;
 
 // 13 - Create a conditional: if adventurous is true, console log "Adventures are great!", 
 // if it's not true, console log "How about we stay home?"
 if adventurous == true;
-console.log ("adventures are great!")
+console.log ("adventures are great!");
 
 
 
